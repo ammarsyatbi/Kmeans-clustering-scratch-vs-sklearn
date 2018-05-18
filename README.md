@@ -9,3 +9,5 @@ I found that the result is almost equally the same on cluster 4, some of the clu
 * pandas
 * numpy
 * sklearn
+
+![alt text](https://raw.githubusercontent.com/ammarsyatbi/Kmeans-clustering-scratch-vs-sklearn/scratch.png)
