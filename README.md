@@ -10,5 +10,10 @@ I found that the result is almost equally the same on cluster 4, some of the clu
 * numpy
 * sklearn
 
+### Sklearn result ###
+
 ![](https://github.com/ammarsyatbi/Kmeans-clustering-scratch-vs-sklearn/blob/master/lib.png)
-![alt text](https://raw.githubusercontent.com/ammarsyatbi/Kmeans-clustering-scratch-vs-sklearn/blob/master/scratch.png)
+
+### Scratch result ###
+
+![](https://github.com/ammarsyatbi/Kmeans-clustering-scratch-vs-sklearn/blob/master/scratch.png)
